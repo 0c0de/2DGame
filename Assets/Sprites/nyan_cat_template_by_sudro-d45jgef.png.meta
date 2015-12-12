@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: 5ae950de592036143bfcd57b9f233d40
+timeCreated: 1442248463
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nyan_cat_template_by_sudro-d45jgef_0
+    21300002: nyan_cat_template_by_sudro-d45jgef_1
+    21300004: nyan_cat_template_by_sudro-d45jgef_2
+    21300006: nyan_cat_template_by_sudro-d45jgef_3
+    21300008: nyan_cat_template_by_sudro-d45jgef_4
+    21300010: nyan_cat_template_by_sudro-d45jgef_5
+    21300012: nyan_cat_template_by_sudro-d45jgef_6
+    21300014: nyan_cat_template_by_sudro-d45jgef_7
+    21300016: nyan_cat_template_by_sudro-d45jgef_8
+    21300018: nyan_cat_template_by_sudro-d45jgef_9
+    21300020: nyan_cat_template_by_sudro-d45jgef_10
+    21300022: nyan_cat_template_by_sudro-d45jgef_11
+    21300024: nyan_cat_template_by_sudro-d45jgef_12
+    21300026: nyan_cat_template_by_sudro-d45jgef_13
+    21300028: nyan_cat_template_by_sudro-d45jgef_14
+    21300030: nyan_cat_template_by_sudro-d45jgef_15
+    21300032: nyan_cat_template_by_sudro-d45jgef_16
+    21300034: nyan_cat_template_by_sudro-d45jgef_17
+    21300036: nyan_cat_template_by_sudro-d45jgef_18
+    21300038: nyan_cat_template_by_sudro-d45jgef_19
+    21300040: nyan_cat_template_by_sudro-d45jgef_20
+    21300042: nyan_cat_template_by_sudro-d45jgef_21
+    21300044: nyan_cat_template_by_sudro-d45jgef_22
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: nyan_cat_template_by_sudro-d45jgef_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 216
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 217
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 217
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 184
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 184
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 184
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 181
+        width: 73
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 153
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 153
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 153
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 119
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 120
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 120
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 87
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 87
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 87
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_16
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 94
+        width: 76
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_17
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 56
+        width: 51
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 56
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 56
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_20
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 24
+        width: 66
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 24
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nyan_cat_template_by_sudro-d45jgef_22
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 24
+        width: 103
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Varieties
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
