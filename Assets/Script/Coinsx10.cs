@@ -5,10 +5,12 @@ using UnityEngine.UI;
 public class Coinsx10 : MonoBehaviour {
 
 	public Image MonedaImagen;
-	public Coins coin;
+	private Coins coin;
+    public GameObject m_Floating10XCoin;
 	public ParticleSystem ParticulasMoneda;
 	// Use this for initialization
 	void Start () {
+        coin = GameObject.FindGameObjectWithTag("Check").GetComponent<Coins>();
 	}
 
 	// Update is called once per frame
@@ -20,10 +22,11 @@ public class Coinsx10 : MonoBehaviour {
 			IncrementarMonedas ();
 			MonedaImagen.gameObject.SetActive(false);
 			ParticulasMoneda.Play ();
+            m_Floating10XCoin.SetActive(true);
 		}
 	}
 
 	public void IncrementarMonedas(){
-		coin.valor += 10;
+        coin.valor = coin.valor + 9;
 	}	
 }

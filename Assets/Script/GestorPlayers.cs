@@ -22,5 +22,11 @@ public class GestorPlayers : MonoBehaviour {
 			Helicoptero.SetActive(false);
 			AvionetaPrincipal.SetActive(false);
 		}
+
+        if (PlayerPrefs.GetInt("NyanCat") == 0 && PlayerPrefs.GetInt("Helicoptero") == 0) {
+            AvionetaPrincipal.SetActive(true);
+            NyanCat.SetActive(false);
+            Helicoptero.SetActive(false);
+        }
 	}
 }

@@ -11,6 +11,7 @@ public class Invencible : MonoBehaviour {
 	private Animator m_anim;
 	// Use this for initialization
 	void Start () {
+ 
         Player = GameObject.FindGameObjectWithTag("Check");
     }
 	
@@ -22,10 +23,12 @@ public class Invencible : MonoBehaviour {
 		if (other.gameObject.tag == "Check") {
             SimboloEscudo.enabled = false;
 			Player.GetComponent<Animator>().SetBool("ColumnaEscudo",true);
-            Player.layer = 18;
-            PointScore.layer = 18;
-            Check.layer = 18;
-            coin.gameObject.layer = 18;
+			Player.GetComponent<Animator>().SetBool("InvencibleHelicopter",true);
+			Player.GetComponent<Animator>().SetBool("NyanInvencible",true);
+            Player.layer = 11;
+            PointScore.layer = 11;
+            Check.layer = 11;
+            coin.gameObject.layer = 11;
         }
 	}
 }

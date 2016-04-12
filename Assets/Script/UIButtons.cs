@@ -1,5 +1,8 @@
 ﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 using System.Collections;
+using GooglePlayGames;
+using UnityEngine.SocialPlatforms;
 
 public class UIButtons : MonoBehaviour {
 
@@ -18,13 +21,22 @@ public class UIButtons : MonoBehaviour {
 
 	public void Back(){
 		coin = GameObject.FindGameObjectWithTag ("coin").GetComponent<Coins> ();
-		Application.LoadLevel (0);
+        SceneManager.LoadScene(0);
 		coin.Guardar ();
 	}
 
 	public void Shop(){
 		coin = GameObject.FindGameObjectWithTag ("coin").GetComponent<Coins> ();
-		Application.LoadLevel (1);
+		SceneManager.LoadScene (1);
 		coin.Cargar ();
 	}
+
+    public void Logros() {
+		Social.ShowAchievementsUI ();
+    }
+
+    public void LeaderBoards() {
+		PlayGamesPlatform.Instance.ShowLeaderboardUI ("CgkIp_mU24gMEAIQCA");
+    }
+
 }

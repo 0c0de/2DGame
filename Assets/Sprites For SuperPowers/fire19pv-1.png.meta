@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: fd83aae650ac013449f90574981620de
+timeCreated: 1450557284
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fire19pv-1_0
+    21300002: fire19pv-1_1
+    21300004: fire19pv-1_2
+    21300006: fire19pv-1_3
+    21300008: fire19pv-1_4
+    21300010: fire19pv-1_5
+    21300012: fire19pv-1_6
+    21300014: fire19pv-1_7
+    21300016: fire19pv-1_8
+    21300018: fire19pv-1_9
+    21300020: fire19pv-1_10
+    21300022: fire19pv-1_11
+    21300024: fire19pv-1_12
+    21300026: fire19pv-1_13
+    21300028: fire19pv-1_14
+    21300030: fire19pv-1_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fire19pv-1_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 593
+        width: 171
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.64, y: 22.259995}
+        - {x: -25.64, y: 20.259995}
+        - {x: -27.64, y: 14.2599945}
+        - {x: -27.64, y: -14.7400055}
+        - {x: -23.64, y: -20.740005}
+        - {x: 16.36, y: -20.740005}
+        - {x: 24.36, y: -17.740005}
+        - {x: 28.36, y: -13.7400055}
+        - {x: 28.36, y: 22.259995}
+    - name: fire19pv-1_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 590
+        width: 178
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.64, y: 10.800003}
+        - {x: 24.64, y: 6.800003}
+        - {x: 22.64, y: 11.800003}
+        - {x: 25.64, y: 16.800003}
+        - {x: 22.64, y: 23.800003}
+        - {x: -27.36, y: 23.800003}
+        - {x: -28.36, y: 16.800003}
+        - {x: -28.36, y: -19.199997}
+        - {x: -24.36, y: -22.199997}
+        - {x: 17.64, y: -22.199997}
+        - {x: 29.64, y: -13.199997}
+        - {x: 29.64, y: 9.800003}
+        - {x: 27.64, y: 11.800003}
+    - name: fire19pv-1_2
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 604
+        width: 173
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 22.279999}
+        - {x: -28, y: -21.720001}
+        - {x: 21, y: -21.720001}
+        - {x: 28, y: -16.720001}
+        - {x: 28, y: 22.279999}
+    - name: fire19pv-1_3
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 604
+        width: 174
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.14, y: 20.779999}
+        - {x: -28.14, y: -20.220001}
+        - {x: 28.86, y: -20.220001}
+        - {x: 28.86, y: 18.779999}
+        - {x: 26.86, y: 20.779999}
+    - name: fire19pv-1_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 398
+        width: 198
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.44, y: -8.139999}
+        - {x: -24.44, y: -21.14}
+        - {x: -20.44, y: -23.14}
+        - {x: 24.56, y: -23.14}
+        - {x: 32.559998, y: -15.139999}
+        - {x: 32.559998, y: 17.86}
+        - {x: 26.56, y: 23.86}
+        - {x: -26.44, y: 23.86}
+        - {x: -31.44, y: 17.86}
+    - name: fire19pv-1_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 405
+        width: 186
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.64, y: 21.09999}
+        - {x: -29.64, y: -13.900009}
+        - {x: -25.64, y: -19.90001}
+        - {x: 21.36, y: -19.90001}
+        - {x: 28.36, y: -8.900009}
+        - {x: 28.36, y: 21.09999}
+    - name: fire19pv-1_6
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 401
+        width: 168
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.779999, y: 19.319992}
+        - {x: 23.779999, y: 16.319992}
+        - {x: 23.779999, y: 21.319992}
+        - {x: -27.220001, y: 21.319992}
+        - {x: -27.220001, y: -20.680008}
+        - {x: 22.779999, y: -20.680008}
+        - {x: 27.779999, y: -17.680008}
+        - {x: 27.779999, y: 20.319992}
+        - {x: 26.779999, y: 20.319992}
+    - name: fire19pv-1_7
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 403
+        width: 176
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.380005, y: 23.959991}
+        - {x: -28.380005, y: -11.040009}
+        - {x: -19.380005, y: -22.040009}
+        - {x: 20.619995, y: -22.040009}
+        - {x: 28.619995, y: -18.040009}
+        - {x: 28.619995, y: 23.959991}
+    - name: fire19pv-1_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 214
+        width: 182
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.12, y: 18.479996}
+        - {x: -28.12, y: -10.520004}
+        - {x: -26.12, y: -17.520004}
+        - {x: 27.88, y: -17.520004}
+        - {x: 30.88, y: -10.520004}
+        - {x: 30.88, y: 18.479996}
+    - name: fire19pv-1_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 208
+        width: 180
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.979996, y: 7.5599976}
+        - {x: 27.979996, y: 9.559998}
+        - {x: 26.979996, y: 9.559998}
+        - {x: 29.979996, y: 10.559998}
+        - {x: 29.979996, y: 15.559998}
+        - {x: 27.979996, y: 20.559998}
+        - {x: -29.020004, y: 20.559998}
+        - {x: -29.020004, y: -13.440002}
+        - {x: -26.020004, y: -19.440002}
+        - {x: 21.979996, y: -19.440002}
+        - {x: 26.979996, y: -17.440002}
+        - {x: 29.979996, y: -4.4400024}
+    - name: fire19pv-1_10
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 208
+        width: 173
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.919998, y: 19.059998}
+        - {x: -27.919998, y: 11.059998}
+        - {x: -27.919998, y: -17.940002}
+        - {x: 16.080002, y: -17.940002}
+        - {x: 27.080002, y: -12.940002}
+        - {x: 28.080002, y: -7.9400024}
+        - {x: 28.080002, y: 19.059998}
+    - name: fire19pv-1_11
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 207
+        width: 179
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.800003, y: 21.739998}
+        - {x: -27.800003, y: 1.7399979}
+        - {x: -27.800003, y: -19.260002}
+        - {x: -26.800003, y: -21.260002}
+        - {x: 23.199997, y: -21.260002}
+        - {x: 29.199997, y: -18.260002}
+        - {x: 29.199997, y: 21.739998}
+    - name: fire19pv-1_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3
+        width: 191
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.44, y: 22.46}
+        - {x: -20.44, y: 21.46}
+        - {x: -30.44, y: 5.459999}
+        - {x: -30.44, y: -10.540001}
+        - {x: -28.44, y: -16.54}
+        - {x: -23.44, y: -20.54}
+        - {x: 17.56, y: -20.54}
+        - {x: 29.56, y: -14.540001}
+        - {x: 29.56, y: 22.46}
+    - name: fire19pv-1_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 4
+        width: 177
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.400002, y: 22.28}
+        - {x: -18.599998, y: 22.28}
+        - {x: -28.599998, y: 6.2800007}
+        - {x: -28.599998, y: -21.72}
+        - {x: 16.400002, y: -21.72}
+        - {x: 27.400002, y: -18.72}
+        - {x: 27.400002, y: 20.28}
+    - name: fire19pv-1_14
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 7
+        width: 175
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.419998, y: 21.24}
+        - {x: -28.419998, y: -20.76}
+        - {x: 23.580002, y: -20.76}
+        - {x: 28.580002, y: -17.76}
+        - {x: 28.580002, y: 21.24}
+      - - {x: -28.419998, y: 10.24}
+        - {x: -27.419998, y: 9.24}
+        - {x: -24.419998, y: 10.24}
+        - {x: -24.419998, y: 13.24}
+        - {x: -26.419998, y: 15.24}
+        - {x: -28.419998, y: 14.24}
+    - name: fire19pv-1_15
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 0
+        width: 183
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.059998, y: 22}
+        - {x: -29.059998, y: 19}
+        - {x: -29.059998, y: -19}
+        - {x: -22.059998, y: -22}
+        - {x: 27.940002, y: -22}
+        - {x: 29.940002, y: -16}
+        - {x: 29.940002, y: 7}
+        - {x: 23.940002, y: 22}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

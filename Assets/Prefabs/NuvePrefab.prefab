@@ -40,9 +40,9 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 162538}
-  m_LocalRotation: {x: 0, y: 1, z: 0, w: -1.62920685e-07}
-  m_LocalPosition: {x: -.39007473, y: 3.60585499, z: .139367372}
-  m_LocalScale: {x: .79763931, y: .79763931, z: .79763931}
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: -0.00000016292068}
+  m_LocalPosition: {x: -0.39007473, y: 3.605855, z: 0.13936737}
+  m_LocalScale: {x: 0.7976393, y: 0.7976393, z: 0.7976393}
   m_Children: []
   m_Father: {fileID: 453988}
   m_RootOrder: 0
@@ -53,7 +53,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 108962}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 19.5300007, y: 5.42414474, z: -6.26000023}
+  m_LocalPosition: {x: 19.53, y: 5.4241447, z: -6.26}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 444612}
@@ -66,9 +66,10 @@ Rigidbody2D:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 108962}
+  m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDrag: 0
-  m_AngularDrag: .0500000007
+  m_AngularDrag: 0.05
   m_GravityScale: 1
   m_IsKinematic: 1
   m_Interpolate: 0
@@ -83,7 +84,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 108962}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 26f941cc57cbafb45a0a5b545114ca3e, type: 3}
+  m_Script: {fileID: 11500000, guid: 569db70628346034b8cecdd2d05f375c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &11477600
@@ -117,14 +118,18 @@ SpriteRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_ScaleInLightmap: 1
   m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_AutoUVMaxDistance: .5
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 19e9dd9fda3c52d418e47fee8fbf02cd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1

@@ -8,10 +8,8 @@ public class PauseMenu : MonoBehaviour {
 	public Image ManoClick;
 	public CanvasRenderer table;
 	public Image GetReady;
-	public Image GameOver;
-
 	// Use this for initialization
-	void Start () {
+	void Awake () {
 		Time.timeScale = 0f;
 	}
 	

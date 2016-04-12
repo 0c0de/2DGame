@@ -3,8 +3,6 @@ using System.Collections;
 
 public class Destructor : MonoBehaviour {
 
-	private float Tiempo = 10f;
-
 	// Use this for initialization
 	void Start () {
 	
@@ -12,8 +10,6 @@ public class Destructor : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-
-		Destroy (this.gameObject, Tiempo);
-	
+        Destroy(gameObject, 10f);
 	}
 }

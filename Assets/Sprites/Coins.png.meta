@@ -27,7 +27,7 @@ TextureImporter:
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     linearTexture: 0
     correctGamma: 0
     fadeOut: 0
@@ -37,7 +37,7 @@ TextureImporter:
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
   grayScaleToAlpha: 0
@@ -46,10 +46,10 @@ TextureImporter:
   cubemapConvolutionSteps: 8
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
-  textureFormat: -2
+  textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
-    filterMode: -1
+    filterMode: 2
     aniso: 16
     mipBias: -1
     wrapMode: 1
@@ -62,7 +62,7 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaIsTransparency: 1
@@ -80,6 +80,15 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 20}
+        - {x: -16, y: 17}
+        - {x: -16, y: -19}
+        - {x: -15, y: -20}
+        - {x: 12, y: -20}
+        - {x: 16, y: -19}
+        - {x: 16, y: 19}
+        - {x: 13, y: 20}
     - name: Coins_1
       rect:
         serializedVersion: 2
@@ -90,6 +99,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
     - name: Coins_2
       rect:
         serializedVersion: 2
@@ -100,6 +110,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
     - name: Coins_3
       rect:
         serializedVersion: 2
@@ -110,6 +121,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
     - name: Coins_4
       rect:
         serializedVersion: 2
@@ -120,6 +132,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
     - name: Coins_5
       rect:
         serializedVersion: 2
@@ -130,6 +143,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
     - name: Coins_6
       rect:
         serializedVersion: 2
@@ -140,6 +154,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
     - name: Coins_7
       rect:
         serializedVersion: 2
@@ -150,6 +165,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
     - name: Coins_8
       rect:
         serializedVersion: 2
@@ -160,6 +176,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
     - name: Coins_9
       rect:
         serializedVersion: 2
@@ -170,6 +187,14 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 20}
+        - {x: -16, y: 18}
+        - {x: -16, y: -20}
+        - {x: 15, y: -20}
+        - {x: 16, y: -17}
+        - {x: 16, y: 18}
+        - {x: 12, y: 20}
     - name: Coins_10
       rect:
         serializedVersion: 2
@@ -180,6 +205,15 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 20}
+        - {x: -19, y: 15}
+        - {x: -19, y: -12}
+        - {x: -12, y: -20}
+        - {x: 13, y: -20}
+        - {x: 19, y: -14}
+        - {x: 19, y: 15}
+        - {x: 11, y: 20}
     - name: Coins_11
       rect:
         serializedVersion: 2
@@ -190,6 +224,14 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 20}
+        - {x: -17.5, y: 17}
+        - {x: -17.5, y: -20}
+        - {x: 15.5, y: -20}
+        - {x: 17.5, y: -14}
+        - {x: 17.5, y: 17}
+        - {x: 13.5, y: 20}
     - name: Coins_12
       rect:
         serializedVersion: 2
@@ -200,6 +242,7 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
     - name: Coins_13
       rect:
         serializedVersion: 2
@@ -210,6 +253,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 20}
+        - {x: -17.5, y: 11}
+        - {x: -17.5, y: -12}
+        - {x: -11.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 17.5, y: 20}
     - name: Coins_14
       rect:
         serializedVersion: 2
@@ -220,6 +270,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 20}
+        - {x: -18.5, y: -16}
+        - {x: -17.5, y: -20}
+        - {x: 10.5, y: -20}
+        - {x: 18.5, y: -12}
+        - {x: 18.5, y: 20}
     - name: Coins_15
       rect:
         serializedVersion: 2
@@ -230,6 +287,16 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 20}
+        - {x: -15, y: 20}
+        - {x: -20, y: 15}
+        - {x: -20, y: -14}
+        - {x: -15, y: -20}
+        - {x: 11, y: -20}
+        - {x: 18, y: -13}
+        - {x: 20, y: -10}
+        - {x: 20, y: 12}
     - name: Coins_16
       rect:
         serializedVersion: 2
@@ -240,6 +307,13 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20}
+        - {x: -20, y: -18}
+        - {x: -15, y: -20}
+        - {x: 20, y: -20}
+        - {x: 20, y: 15}
+        - {x: 18, y: 20}
     - name: Coins_17
       rect:
         serializedVersion: 2
@@ -250,6 +324,14 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 20}
+        - {x: -19.5, y: 17}
+        - {x: -19.5, y: -20}
+        - {x: 16.5, y: -20}
+        - {x: 19.5, y: -13}
+        - {x: 19.5, y: 16}
+        - {x: 14.5, y: 20}
     - name: Coins_18
       rect:
         serializedVersion: 2
@@ -260,6 +342,15 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.5, y: 20}
+        - {x: -19.5, y: 20}
+        - {x: -19.5, y: -15}
+        - {x: -9.5, y: -20}
+        - {x: 9.5, y: -20}
+        - {x: 13.5, y: -18}
+        - {x: 19.5, y: -14}
+        - {x: 19.5, y: 17}
     - name: Coins_19
       rect:
         serializedVersion: 2
@@ -270,6 +361,16 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 20}
+        - {x: -19.5, y: 17}
+        - {x: -19.5, y: -16}
+        - {x: -14.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 19.5, y: -15}
+        - {x: 19.5, y: 18}
+        - {x: 16.5, y: 20}
+    outline: []
   spritePackingTag: Varieties
   userData: 
   assetBundleName: 
