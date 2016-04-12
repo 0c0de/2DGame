@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: c862e43ac5f8d084ba1bd8ea06af7240
+timeCreated: 1442324252
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bomb animation spritesheet_0
+    21300002: bomb animation spritesheet_1
+    21300004: bomb animation spritesheet_2
+    21300006: bomb animation spritesheet_3
+    21300008: bomb animation spritesheet_4
+    21300010: bomb animation spritesheet_5
+    21300012: bomb animation spritesheet_6
+    21300014: bomb animation spritesheet_7
+    21300016: bomb animation spritesheet_8
+    21300018: bomb animation spritesheet_9
+    21300020: bomb animation spritesheet_10
+    21300022: bomb animation spritesheet_11
+    21300024: bomb animation spritesheet_12
+    21300026: bomb animation spritesheet_13
+    21300028: bomb animation spritesheet_14
+    21300030: bomb animation spritesheet_15
+    21300032: bomb animation spritesheet_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bomb animation spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 810
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bomb animation spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 787
+        width: 129
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bomb animation spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 811
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bomb animation spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 513
+        width: 202
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bomb animation spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 516
+        width: 205
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bomb animation spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 518
+        width: 208
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bomb animation spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 262
+        width: 219
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bomb animation spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 243
+        width: 257
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bomb animation spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 446
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bomb animation spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 433
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bomb animation spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 437
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bomb animation spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 432
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bomb animation spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 387
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bomb animation spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 269
+        width: 262
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bomb animation spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 373
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bomb animation spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 363
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bomb animation spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 48
+        width: 259
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Varieties
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
